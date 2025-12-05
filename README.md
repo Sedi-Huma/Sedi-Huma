@@ -48,8 +48,7 @@
 1. **Test Case Repository** - Sample test cases with different prioritization levels
 2. **Bug Report Library** - Well-documented defect reports with reproduction steps
 3. **Automation Scripts** - Selenium/Playwright/Cypress examples
-4. **API Test Collections** - Postman collections for REST API testing
-5. **Performance Test Plans** - JMeter test configurations and results
+4. **Performance Test Plans** - JMeter test configurations and results
 
 *Check my repositories for ongoing testing projects and examples.*
 
